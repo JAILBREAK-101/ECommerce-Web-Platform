@@ -8,8 +8,7 @@
     <p>This platform solves the problem of business owners worrying about how many customers are aware of what products they are selling or services they are rendering as it serves as an advertisement platform to make known businesses in the environment to potential customers</p>
 </div>
 
-<div align="center">While the project is still in development, we are currently currating the [figma design](./public/figma/) that'll be used to create the landing page.</div>
-
+While the project is still in development, we are currently currating the [figma design](./public/figma/) that'll be used to create the landing page.</p>
 # Contribution
 
 Are you interested in making any contributions to the project?. Do well to follow the [contribution guidelines](./CONTRIBUTING.md) while making your contributions.
