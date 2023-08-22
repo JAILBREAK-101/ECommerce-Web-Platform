@@ -5,10 +5,10 @@
 
 <div align="center">
     <h2>What this solves</h2>
-    <p>This platform solves the problem of business owners worrying about how many customers are aware of what products they are selling or services they are rendering, as it serves as an advertisement platform to make known businesses in the environment to potential customers</p>
+    <p>This platform solves the problem of business owners worrying about how many customers are aware of what products they are selling or services they are rendering as it serves as an advertisement platform to make known businesses in the environment to potential customers</p>
 </div>
 
-While the project is still in development, we are currently currating the [figma design](./public/figma/) that'll be used to create the landing page.
+<div align="center">While the project is still in development, we are currently currating the [figma design](./public/figma/) that'll be used to create the landing page.</div>
 
 # Contribution
 
