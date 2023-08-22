@@ -14,12 +14,6 @@
 
 Are you interested in making any contributions to the project?. Do well to follow the [contribution guidelines](./CONTRIBUTING.md) while making your contributions.
 
-<!-- # Meet our contributors 🙌 -->
-
-<!-- <a href="https://github.com/Topman-14/InfoHub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JAILBREAK-101/ECommerceWebPlatform" />
-</a> -->
-
 # License 🔐
 
 Thsi project is under an [APACHE 2 LICENSE](LICENSE)
