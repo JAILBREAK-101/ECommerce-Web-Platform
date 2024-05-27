@@ -15,4 +15,4 @@ Are you interested in making any contributions to the project?. Do well to follo
 
 # License 🔐
 
-Thsi project is under an [APACHE 2 LICENSE](LICENSE)
+This project is under an [APACHE 2 LICENSE](LICENSE)
